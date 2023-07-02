@@ -1,4 +1,3 @@
-# Factor_Code
 ## cal_char.csv
 ### 根据ChinaAShareEquityCharacteristics修改计算因子值
 
