@@ -1,8 +1,5 @@
-## cal_char.csv
-#### 根据ChinaAShareEquityCharacteristics修改,计算因子值
+## Cal_char.csv
+#### Constructing hundreds of factors for China A-share market
 
 ## size and value in China
-#### 复现ch-3 三因子
-
-## 动量类解析
-#### 复现的研报因子
+#### replicating CH-3 factors
